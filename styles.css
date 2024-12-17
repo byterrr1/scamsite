@@ -39,6 +39,7 @@ font-weight: 400;
 font-size: 27px;
 line-height: 49px;
 color: #000000;
+text-decoration: none;
 }
 .krug{
 position: absolute;
@@ -166,7 +167,7 @@ color: #D2D2D2;
 }
 .phon{
 position: absolute;
-width: 1920px;
+width: 1903px;
 height: 3050px;
 left: 0px;
 top: 1076px;
@@ -426,7 +427,7 @@ color: #FFFFFF;
 }
 .phon2{
 position: absolute;
-width: 1920px;
+width: 1903px;
 height: 978px;
 left: 0px;
 top: 4125px;
@@ -585,7 +586,7 @@ color: #FFFFFF;
 }
 .phon3{
 position: absolute;
-width: 1920px;
+width: 1903px;
 height: 1301px;
 left: 0px;
 top: 5103px;
@@ -736,7 +737,7 @@ color: #FFFFFF;
 }
 .phon4{
 position: absolute;
-width: 1920px;
+width: 1903px;
 height: 162px;
 left: 0px;
 top: 6242px;
@@ -832,7 +833,7 @@ color: #FFFFFF;
 }
 .photo{
 position: absolute;
-width: 1920px;
+width: 1903px;
 height: 1076px;
 left: 0px;
 top: 0px;
